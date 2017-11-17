@@ -1,0 +1,320 @@
+Python 3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:14:34) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: C:\Users\nblous5177\Computer Program\Hangman.py ==========
+What is your name?nathan
+Would you like to play in english or spanish nathan?spanish
+Would you like to play the normal version where you guess the word or where somebody else enters the word for you nathan? Enter 'normal' or 'self'.self
+Por favor, haga que alguien escriba una palabra que le gustaría que adivine nathan. Gire la cabeza de distancia, ya que lo hacen ...penguin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*************
+**BIENVENIDO**
+*****A*****
+***HANGMAN***
+*************
+Tu tenias 6 probas.
+-------
+Adivina una carta nathan: p
+ _________
+ |        |
+ |
+ |
+ |
+ |
+ |
+p------
+Huelgas: 0
+Conjeturas Correctas: p
+Conjeturas Incorrectas: 
+Adivina una carta nathan: e
+ _________
+ |        |
+ |
+ |
+ |
+ |
+ |
+pe-----
+Huelgas: 0
+Conjeturas Correctas: pe
+Conjeturas Incorrectas: 
+Adivina una carta nathan: y
+ _________
+ |        |
+ |        0
+ |
+ |
+ |
+ |
+pe-----
+Huelgas: 1
+Conjeturas Correctas: pe
+Conjeturas Incorrectas: y
+Adivina una carta nathan: t
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+pe-----
+Huelgas: 2
+Conjeturas Correctas: pe
+Conjeturas Incorrectas: yt
+Adivina una carta nathan: n
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+pen---n
+Huelgas: 2
+Conjeturas Correctas: pen
+Conjeturas Incorrectas: yt
+Adivina una carta nathan: g
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+peng--n
+Huelgas: 2
+Conjeturas Correctas: peng
+Conjeturas Incorrectas: yt
+Adivina una carta nathan: u
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+pengu-n
+Huelgas: 2
+Conjeturas Correctas: pengu
+Conjeturas Incorrectas: yt
+Adivina una carta nathan: i
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+penguin
+Huelgas: 2
+Conjeturas Correctas: pengui
+Conjeturas Incorrectas: yt
+Tu Ganasnathan!
+¿Te gustaría jugar de nuevo? nathan? (y/n) y
+Por favor, haga que alguien escriba una palabra que le gustaría que adivine nathan. Gire la cabeza de distancia, ya que lo hacen ...bunny
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*************
+**BIENVENIDO**
+*****A*****
+***HANGMAN***
+*************
+Tu tenias 6 probas.
+-----
+Adivina una carta nathan: o
+ _________
+ |        |
+ |        0
+ |
+ |
+ |
+ |
+-----
+Huelgas: 1
+Conjeturas Correctas: 
+Conjeturas Incorrectas: o
+Adivina una carta nathan: u
+ _________
+ |        |
+ |        0
+ |
+ |
+ |
+ |
+-u---
+Huelgas: 1
+Conjeturas Correctas: u
+Conjeturas Incorrectas: o
+Adivina una carta nathan: r
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+-u---
+Huelgas: 2
+Conjeturas Correctas: u
+Conjeturas Incorrectas: or
+Adivina una carta nathan: n
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+-unn-
+Huelgas: 2
+Conjeturas Correctas: un
+Conjeturas Incorrectas: or
+Adivina una carta nathan: y
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+-unny
+Huelgas: 2
+Conjeturas Correctas: uny
+Conjeturas Incorrectas: or
+Adivina una carta nathan: w
+ _________
+ |        |
+ |        0
+ |       /|
+ |
+ |
+ |
+-unny
+Huelgas: 3
+Conjeturas Correctas: uny
+Conjeturas Incorrectas: orw
+Adivina una carta nathan: f
+ _________
+ |        |
+ |        0
+ |       /|\ 
+ |
+ |
+ |
+-unny
+Huelgas: 4
+Conjeturas Correctas: uny
+Conjeturas Incorrectas: orwf
+Adivina una carta nathan: p
+ _________
+ |        |
+ |        0
+ |       /|\    ._.
+ |       /
+ |
+ |
+-unny
+Huelgas: 5
+Conjeturas Correctas: uny
+Conjeturas Incorrectas: orwfp
+Adivina una carta nathan: m
+ _________             ______
+ |        |      |     |
+ |        0      |     |
+ |       /|\     |_____|_____
+ |       / \           |    |
+ |                     |    |
+ |                _____|    |
+-unny
+Huelgas: 6
+Conjeturas Correctas: uny
+Conjeturas Incorrectas: orwfpm
+Tu perdidas... Mejor suerte la próxima vez nathan!
+¿Te gustaría jugar de nuevo? nathan? (y/n) n
+*************
+*****ADIOS*****
+*****HASTA*****
+*****LA*****
+**PROXIMO**
+*************
+BY: NATHAN BLOUSE
+COMPLETED: NOVEMBER 9
+Gracias por jugar nathan! Enfermo nos vemos la próxima vez!

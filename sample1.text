@@ -1,0 +1,217 @@
+What is your name?Nathan
+Would you like to play in english or spanish Nathan?english
+Would you like to play the normal version where you guess the word or where somebody else enters the word for you Nathan? Enter 'normal' or 'self'.normal
+*************
+***WELCOME***
+*****TO*****
+***HANGMAN***
+*************
+You have 6 tries.
+------
+Guess a letter Nathan: h
+ _________
+ |        |
+ |        0
+ |
+ |
+ |
+ |
+------
+Strikes: 1
+Correct Guesses: 
+Incorrect Guesses: h
+Guess a letter Nathan: a
+ _________
+ |        |
+ |        0
+ |
+ |
+ |
+ |
+-a----
+Strikes: 1
+Correct Guesses: a
+Incorrect Guesses: h
+Guess a letter Nathan: e
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+-a----
+Strikes: 2
+Correct Guesses: a
+Incorrect Guesses: he
+Guess a letter Nathan: o
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+-a--o-
+Strikes: 2
+Correct Guesses: ao
+Incorrect Guesses: he
+Guess a letter Nathan: f
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+fa--o-
+Strikes: 2
+Correct Guesses: aof
+Incorrect Guesses: he
+Guess a letter Nathan: l
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+fal-o-
+Strikes: 2
+Correct Guesses: aofl
+Incorrect Guesses: he
+Guess a letter Nathan: p
+ _________
+ |        |
+ |        0
+ |       /|
+ |
+ |
+ |
+fal-o-
+Strikes: 3
+Correct Guesses: aofl
+Incorrect Guesses: hep
+Guess a letter Nathan: c
+ _________
+ |        |
+ |        0
+ |       /|
+ |
+ |
+ |
+falco-
+Strikes: 3
+Correct Guesses: aoflc
+Incorrect Guesses: hep
+Guess a letter Nathan: n
+ _________
+ |        |
+ |        0
+ |       /|
+ |
+ |
+ |
+falcon
+Strikes: 3
+Correct Guesses: aoflcn
+Incorrect Guesses: hep
+You Win Nathan!
+Would you like to play again Nathan? (y/n) y
+You have 6 tries.
+-------
+Guess a letter Nathan: p
+ _________
+ |        |
+ |        0
+ |
+ |
+ |
+ |
+-------
+Strikes: 1
+Correct Guesses: 
+Incorrect Guesses: p
+Guess a letter Nathan: o
+ _________
+ |        |
+ |        0
+ |        |
+ |
+ |
+ |
+-------
+Strikes: 2
+Correct Guesses: 
+Incorrect Guesses: po
+Guess a letter Nathan: q
+ _________
+ |        |
+ |        0
+ |       /|
+ |
+ |
+ |
+-------
+Strikes: 3
+Correct Guesses: 
+Incorrect Guesses: poq
+Guess a letter Nathan: z
+ _________
+ |        |
+ |        0
+ |       /|\ 
+ |
+ |
+ |
+-------
+Strikes: 4
+Correct Guesses: 
+Incorrect Guesses: poqz
+Guess a letter Nathan: a
+ _________
+ |        |
+ |        0
+ |       /|\ 
+ |
+ |
+ |
+-----a-
+Strikes: 4
+Correct Guesses: a
+Incorrect Guesses: poqz
+Guess a letter Nathan: i
+ _________
+ |        |
+ |        0
+ |       /|\    ._.
+ |       /
+ |
+ |
+-----a-
+Strikes: 5
+Correct Guesses: a
+Incorrect Guesses: poqzi
+Guess a letter Nathan: n
+ _________  
+ |        |      
+ |        0     
+ |       /|\    
+ |       / \          
+ |                    
+ |                
+-----a-
+Strikes: 6
+Correct Guesses: a
+Incorrect Guesses: poqzin
+You lose... Better luck next time Nathan!
+Would you like to play again Nathan? (y/n) n
+*************
+*****Bye*****
+*****See*****
+*****YOU*****
+**NEXT TIME**
+*************
+BY: NATHAN BLOUSE
+COMPLETED: NOVEMBER 9
+Thanks for playing Nathan! I'll see you next time!
